@@ -1,0 +1,7 @@
+axios
+bootstrap
+chart.js
+react-bootstrap
+react-chartjs-2
+recharts
+react-dom
